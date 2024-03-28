@@ -4,7 +4,7 @@ from openai import OpenAI
 import os
 
 # Set API key
-API_KEY = "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"
+API_KEY = "YOUR_API_KEY"
 os.environ["API_KEY"] = API_KEY
 
 def transcribe_text_to_voice(audio_location):
