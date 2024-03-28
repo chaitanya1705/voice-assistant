@@ -31,7 +31,7 @@ This is a simple voice assistant application built using Streamlit, OpenAI's GPT
 ## Usage
 1. Run the application:
     ```
-    streamlit main.py
+    streamlit run main.py
     ```
 
 2. Click on the voice recorder to start recording your query.
