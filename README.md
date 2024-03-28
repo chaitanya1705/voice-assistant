@@ -13,7 +13,7 @@ This is a simple voice assistant application built using Streamlit, OpenAI's GPT
 ## Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/your/repository.git
+    git clone https://github.com/chaitanya1705/voice-assistant
     ```
 
 2. Install the required Python packages:
@@ -44,8 +44,7 @@ This is a simple voice assistant application built using Streamlit, OpenAI's GPT
 - OpenAI: [https://openai.com/](https://openai.com/)
 - Audio Recorder Streamlit: [https://pypi.org/project/audio-recorder-streamlit/](https://pypi.org/project/audio-recorder-streamlit/)
 
-## Author
-- **Chaitanya N**
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
