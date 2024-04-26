@@ -10,6 +10,11 @@ This is a simple voice assistant application built using Streamlit, OpenAI's GPT
 - Text-to-speech: The AI-generated response is converted into speech using OpenAI's text-to-speech (TTS) capabilities.
 - Playback: Users can listen to the AI-generated response through the application interface.
 
+## Screenshot:
+<img src="https://github.com/chaitanya1705/voice-assistant/assets/128997716/c6636ad7-4af3-493b-be2a-5b4b65bba3c2">
+
+
+
 ## Installation
 1. Clone the repository:
     ```
